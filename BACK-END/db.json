@@ -1,0 +1,93 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Laptops"
+    },
+    {
+      "id": "2",
+      "name": "Tablets"
+    },
+    {
+      "id": "3",
+      "name": "Mobiles"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Lenevo Thinkpad laptop",
+      "price": 100,
+      "quantity": 1,
+      "imgURL": "https://picsum.photos/200/100?random=1",
+      "categoryID": 1
+    },
+    {
+      "id": "2",
+      "name": "Apple MacBook laptop",
+      "price": 20987000,
+      "quantity": 0,
+      "imgURL": "https://picsum.photos/200/100?random=1",
+      "categoryID": 1
+    },
+    {
+      "id": "3",
+      "name": "Lenevo Tab 2",
+      "price": 350,
+      "quantity": 20,
+      "imgURL": "C:\\fakepath\\books-library.com-1677672377-196.jpg",
+      "categoryID": 2
+    },
+    {
+      "id": "4",
+      "name": "Samsung Tab",
+      "price": 4000988000,
+      "quantity": 5,
+      "imgURL": "https://picsum.photos/200/100?random=1",
+      "categoryID": 2
+    },
+    {
+      "id": "5",
+      "name": "Samsung Note 10 Tab",
+      "price": 5000890,
+      "quantity": 5,
+      "imgURL": "https://picsum.photos/200/100?random=1",
+      "categoryID": 3
+    },
+    {
+      "id": "6",
+      "name": "Edited Mobile , Front Qena",
+      "price": 55,
+      "quantity": 30,
+      "imgURL": "https://picsum.photos/200/100?random=1",
+      "categoryID": 3
+    },
+    {
+      "id": "7",
+      "name": "Edited Mobile , Front Qena",
+      "price": 55,
+      "quantity": 30,
+      "imgURL": "https://picsum.photos/200/100?random=1",
+      "categoryID": 3
+    }
+  ],
+  "users": [
+    {
+      "id": "8c6a",
+      "fullName": "Mohammed",
+      "email": "mohammed@gmail.com",
+      "phone": [
+        "777788880"
+      ],
+      "address": {
+        "city": "mmmmmmmmmmmmmm",
+        "postalCode": 88,
+        "street": "1600 Fake Street"
+      },
+      "password": "jj",
+      "confirmPassword": "jj",
+      "referral": "Friend",
+      "referralOther": ""
+    }
+  ]
+}
